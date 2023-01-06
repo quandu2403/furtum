@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/furtum/static/css/main.5edcd989.css",
+    "main.js": "/furtum/static/js/main.05424a42.js",
+    "static/media/testimonialHero.png": "/furtum/static/media/testimonialHero.be51563da7af51b38130.png",
+    "static/media/img10.png": "/furtum/static/media/img10.9dca869800ef4d7d7be2.png",
+    "static/media/img5.png": "/furtum/static/media/img5.c371f3773e63a7c5d6e3.png",
+    "static/media/hero.png": "/furtum/static/media/hero.df8a9cce08ffccb01a0a.png",
+    "static/media/before.png": "/furtum/static/media/before.6c2af2660743681e75bf.png",
+    "static/media/after.png": "/furtum/static/media/after.c70a5976d8f1653193ca.png",
+    "static/media/img1.png": "/furtum/static/media/img1.674b3d3e7f7072dbbf52.png",
+    "static/media/img11.png": "/furtum/static/media/img11.7968eb1d68db39d10c0f.png",
+    "static/media/img4.png": "/furtum/static/media/img4.20df6804c64736f8d784.png",
+    "static/media/img12.png": "/furtum/static/media/img12.7696f2854ceabceb984c.png",
+    "static/media/profile2.png": "/furtum/static/media/profile2.8258fe3fa51a3e1eac8f.png",
+    "static/media/img2.png": "/furtum/static/media/img2.18424b1689e94211185c.png",
+    "static/media/img3.png": "/furtum/static/media/img3.83ced6696d5e596bf629.png",
+    "static/media/img14.png": "/furtum/static/media/img14.2b55b655fba33b943c93.png",
+    "static/media/img13.png": "/furtum/static/media/img13.e3b0835f60b5707adc11.png",
+    "static/media/img6.png": "/furtum/static/media/img6.56e238b1c3c874d28abe.png",
+    "static/media/logo.png": "/furtum/static/media/logo.28b93600d8be1352b1ee.png",
+    "static/media/img7.png": "/furtum/static/media/img7.316d5f4f0fdaa020ad04.png",
+    "static/media/img9.png": "/furtum/static/media/img9.e6a5aa1e402b61a22d3d.png",
+    "static/media/img8.png": "/furtum/static/media/img8.3057bb293334c0df814f.png",
+    "static/media/shade.png": "/furtum/static/media/shade.ce305661a97c2720c82b.png",
+    "index.html": "/furtum/index.html",
+    "main.5edcd989.css.map": "/furtum/static/css/main.5edcd989.css.map",
+    "main.05424a42.js.map": "/furtum/static/js/main.05424a42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5edcd989.css",
+    "static/js/main.05424a42.js"
+  ]
+}
